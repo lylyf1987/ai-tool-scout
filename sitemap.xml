@@ -235,6 +235,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://ai-tool-scout-xi.vercel.app/posts/best-ai-tools-architecture-design.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ai-tool-scout-xi.vercel.app/posts/best-ai-tools-cooking-recipes.html</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -301,6 +307,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://ai-tool-scout-xi.vercel.app/posts/best-ai-tools-gaming.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ai-tool-scout-xi.vercel.app/posts/best-ai-tools-healthcare.html</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -319,6 +331,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://ai-tool-scout-xi.vercel.app/posts/best-ai-tools-insurance.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ai-tool-scout-xi.vercel.app/posts/best-ai-tools-language-learning.html</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -326,6 +344,18 @@
   </url>
   <url>
     <loc>https://ai-tool-scout-xi.vercel.app/posts/best-ai-tools-lawyers.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ai-tool-scout-xi.vercel.app/posts/best-ai-tools-legal-research.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ai-tool-scout-xi.vercel.app/posts/best-ai-tools-nonprofits.html</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
