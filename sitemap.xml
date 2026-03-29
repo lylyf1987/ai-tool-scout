@@ -830,4 +830,39 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
       </url>
+
+      <url>
+        <loc>https://ai-tool-scout-xi.vercel.app/posts/ai-tools-accountants.html</loc>
+        <lastmod>2026-03-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+      </url>
+
+      <url>
+        <loc>https://ai-tool-scout-xi.vercel.app/posts/ai-tools-healthcare.html</loc>
+        <lastmod>2026-03-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+      </url>
+
+      <url>
+        <loc>https://ai-tool-scout-xi.vercel.app/posts/ai-tools-lawyers.html</loc>
+        <lastmod>2026-03-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+      </url>
+
+      <url>
+        <loc>https://ai-tool-scout-xi.vercel.app/posts/ai-tools-ecommerce.html</loc>
+        <lastmod>2026-03-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+      </url>
+
+      <url>
+        <loc>https://ai-tool-scout-xi.vercel.app/posts/ai-tools-educators.html</loc>
+        <lastmod>2026-03-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+      </url>
 </urlset>
