@@ -1,6 +1,9 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://ai-tool-scout-xi.vercel.app/sitemap.xml
 
-# AI Tool Scout - https://github.com/lylyf1987/ai-tool-scout
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
